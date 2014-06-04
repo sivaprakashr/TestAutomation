@@ -28,6 +28,7 @@ namespace TestFlipKart
         {
             // To generate code for this test, select "Generate Code for Coded UI Test" from the shortcut menu and select one of the menu items.
             BrowserWindow browserWindow = BrowserWindow.Launch(new System.Uri("https://www.flipkart.com"));
+
         }
 
         #region Additional test attributes
